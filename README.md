@@ -32,7 +32,7 @@ The dark-light mode toggle script provides a seamless way to enhance user experi
 
 ### `imgMode(color)`
 
-This function takes a `color` parameter and updates the source of three images accordingly. It is used to set the images for both dark and light modes.
+This function takes a `color` parameter and updates the source of the images accordingly. It is used to set the images for both dark and light modes.
 
 ### `darkMode()`
 
