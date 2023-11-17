@@ -19,7 +19,7 @@
     --on-background: rgba(255, 255, 255, 0.9);
     --on-background-alt: rgba(255, 255, 255, 0.7);
     --background: #121212;
-}  
+}
 
 html {
     box-sizing: border-box;
@@ -102,10 +102,6 @@ a:focus {
     box-shadow: var(--box-shadow);
 }
 
-div{
-    display: flex;
-}
-
 img {
     height: 300px;
     width: 300px;
@@ -178,14 +174,14 @@ p {
 }
 
 /* Contact Section */
-.fab {
+.fa-brands {
     font-size: 100px;
     margin-right: 50px;
     cursor: pointer;
     color: var(--primary-color);
 }
 
-.fab:hover {
+.fa-brands:hover {
     color: var(--on-background);
 }
 
